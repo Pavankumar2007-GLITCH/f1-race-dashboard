@@ -46,10 +46,3 @@ Lap times can be affected by pit stops, traffic, safety cars, fuel load, track c
 - Add race and season selection.
 - Deploy the dashboard publicly.
 
-## Author
-
-Your Name
-
-## License
-
-Add a license if you choose to distribute the project under one.
